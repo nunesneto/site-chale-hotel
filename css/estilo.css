@@ -139,9 +139,22 @@ ul#navegacao a:hover{
 .conteudo{
 margin: 0 auto;
 width: 90%;
-
 }
 
 #rodape{
 	clear: both;
+}
+
+
+/*Formatações de textos
+*/
+h2{
+	color: #7d7640;
+	font-size: 1.1em;
+	padding: 5px 0px;
+}
+
+p{
+	font-size: 1em;
+	margin-bottom: 10px;
 }	
