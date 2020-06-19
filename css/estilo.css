@@ -143,6 +143,9 @@ width: 90%;
 
 #rodape{
 	clear: both;
+	padding: 16px;
+	background: #fff url(../imagens/bg-rodape.png) repeat-x top;
+	color: #7d7640;
 }
 
 
